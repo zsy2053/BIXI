@@ -1,0 +1,6 @@
+#!/bin/bash
+python BIXOFreqMng.py "manual" "2015-09-06 00:00:00" "2015-09-07 00:00:00"
+#python /home/ubuntu/bixianalytics/BIXIDaemon/BIXIFreqMng.py "auto"
+
+
+
